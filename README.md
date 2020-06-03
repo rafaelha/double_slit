@@ -1,2 +1,2 @@
-# double_slid
-Animation of Double Slit Experiment
+# Double Slit Experiment
+Animation of Double Slit Experiment using Mathematica
